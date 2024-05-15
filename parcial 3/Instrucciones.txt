@@ -20,4 +20,6 @@ mongo.tf
 Dockerfile para frontend
 Dockerfile para backend
 
+La imagen muestra los contenedores en Docker Desktop, estos corren en cubernetes como se muestra en la configuración de los archivos. Hay imagen para el mongo y la API. 
+
 
