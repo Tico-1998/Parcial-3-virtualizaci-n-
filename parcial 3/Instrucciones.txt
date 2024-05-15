@@ -1,0 +1,23 @@
+Genere usando la tecnología de su preferencia, los componentes para un sistema que contenga las siguientes capas:
+
+- Frontend (NGINX + React/Angular/Vue - Hello World SPA)
+
+- Backend (Apache/NGINX + Hello World API)
+
+- BDD (no relacional)
+
+
+En este caso se utilizo Terraform levantado localmente con docker desktop y kubernetes. 
+
+Los archivos utilizados son: 
+
+main.tf
+variables.tf
+outputs.tf
+frontend.tf
+backend.tf
+mongo.tf
+Dockerfile para frontend
+Dockerfile para backend
+
+
